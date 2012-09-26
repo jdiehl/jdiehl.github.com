@@ -150,6 +150,16 @@
 		}
 	},
 	{
+		"name": "open-file-from-url",
+		"title": "Open File from URL",
+		"description": "Opens href and rel URLs to files (press Alt+O on any href or rel attribute).",
+		"url": "https://github.com/deemeetar/OpenFileFromUrl",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/deemeetar/OpenFileFromUrl.git"
+		}
+	},
+	{
 		"name": "phonegapbuild",
 		"title": "PhoneGap Build",
 		"description": "The goal: get web projects from Brackets into a mobile application",
