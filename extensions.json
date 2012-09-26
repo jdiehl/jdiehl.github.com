@@ -1,5 +1,15 @@
 [
 	{
+		"name": "annotate",
+		"title": "JSDoc Annotate",
+		"description": "A brackets extension to generate JSDoc annotations for your functions",
+		"url": "https://github.com/davidderaedt/annotate-extension",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/davidderaedt/annotate-extension.git"
+		}
+	},
+	{
 		"name": "appcache-buddy",
 		"title": "App Cache Buddy",
 		"description": "A brackets extension to generate & validate application cache manifests",
@@ -70,13 +80,13 @@
 		}
 	},
 	{
-		"name": "annotate",
-		"title": "JSDoc Annotate",
-		"description": "A brackets extension to generate JSDoc annotations for your functions",
-		"url": "https://github.com/davidderaedt/annotate-extension",
+		"name": "inline-color-editor",
+		"title": "Inline Color Editor",
+		"description": "A html/css/js based inline color editor wrapped up as an extension for Brackets",
+		"url": "https://github.com/GarthDB/brackets-inline-color-editor",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/davidderaedt/annotate-extension.git"
+			"url": "git://github.com/GarthDB/brackets-inline-color-editor.git"
 		}
 	},
 	{
@@ -228,16 +238,6 @@
 		"repository": {
 			"type": "git",
 			"url": "git://github.com/cfjedimaster/brackets-w3cvalidation.git"
-		}
-	},
-	{
-		"name": "brackets-inline-color-editor",
-		"title": "Inline Color Editor",
-		"description": "A html/css/js based inline color editor wrapped up as an extension for Brackets",
-		"url": "https://github.com/GarthDB/brackets-inline-color-editor",
-		"repository": {
-			"type": "git",
-			"url": "git://github.com/GarthDB/brackets-inline-color-editor.git"
 		}
 	}
 ]
