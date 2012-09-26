@@ -1,5 +1,15 @@
 [
 	{
+		"name": "align-assignments",
+		"title": "Align Assignments",
+		"description": "Aligns the equal signs of assignments across multiple lines (press Ctrl-Shift-A)",
+		"url": "https://github.com/deemeetar/AlignAssignments",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/deemeetar/AlignAssignments.git"
+		}
+	},
+	{
 		"name": "annotate",
 		"title": "JSDoc Annotate",
 		"description": "A brackets extension to generate JSDoc annotations for your functions",
