@@ -2,7 +2,7 @@
 	{
 		"name": "align-assignments",
 		"title": "Align Assignments",
-		"description": "Aligns the equal signs of assignments across multiple lines (press Ctrl-Shift-A)",
+		"description": "Align the equal signs of assignments across multiple lines (press Ctrl-Shift-A)",
 		"url": "https://github.com/deemeetar/AlignAssignments",
 		"repository": {
 			"type": "git",
@@ -12,7 +12,7 @@
 	{
 		"name": "appcache-buddy",
 		"title": "App Cache Buddy",
-		"description": "A brackets extension to generate & validate application cache manifests",
+		"description": "Generate & validate application cache manifests",
 		"url": "https://github.com/davidderaedt/appcache-gen",
 		"repository": {
 			"type": "git",
@@ -22,7 +22,7 @@
 	{
 		"name": "code-aging",
 		"title": "Code Aging",
-		"description": "Code Aging Visualization",
+		"description": "Visualizes the age of code lines by changing the background color",
 		"url": "https://github.com/jdiehl/brackets-code-aging",
 		"repository": {
 			"type": "git",
@@ -62,7 +62,7 @@
 	{
 		"name": "debugger",
 		"title": "Debugger",
-		"description": "This extension adds debugging capabilities to Brackets",
+		"description": "Adds debugging capabilities to Brackets",
 		"url": "https://github.com/jdiehl/brackets-debugger",
 		"repository": {
 			"type": "git",
@@ -72,7 +72,7 @@
 	{
 		"name": "editor-navigation-shortcuts",
 		"title": "Editor Navigation Shortcuts",
-		"description": "Adds Eclipse-style keyboard navigation to switch between open files (press Cmd/Ctrl+Shift+E, also Cmd/Ctrl+[ or ]).",
+		"description": "Adds Eclipse-style keyboard navigation to switch between open files (press Cmd/Ctrl+Shift+E, also Cmd/Ctrl+[ or ])",
 		"url": "https://github.com/peterflynn/brackets-editor-nav",
 		"repository": {
 			"type": "git",
@@ -82,7 +82,7 @@
 	{
 		"name": "everyscrub",
 		"title": "Everyscrub",
-		"description": "Everything's a scrubber! Cmd/Ctrl + drag horizontally on any number or hex color to scrub its value.",
+		"description": "Cmd/Ctrl + drag horizontally on any number or hex color to scrub its value",
 		"url": "https://github.com/peterflynn/everyscrub",
 		"repository": {
 			"type": "git",
@@ -102,7 +102,7 @@
 	{
 		"name": "inline-color-editor",
 		"title": "Inline Color Editor",
-		"description": "A html/css/js based inline color editor wrapped up as an extension for Brackets",
+		"description": "An HTML/CSS/JS based inline color editor",
 		"url": "https://github.com/GarthDB/brackets-inline-color-editor",
 		"repository": {
 			"type": "git",
@@ -112,7 +112,7 @@
 	{
 		"name": "annotate",
 		"title": "JSDoc Annotate",
-		"description": "A brackets extension to generate JSDoc annotations for your functions",
+		"description": "Generate JSDoc annotations for your functions",
 		"url": "https://github.com/davidderaedt/annotate-extension",
 		"repository": {
 			"type": "git",
@@ -152,7 +152,7 @@
 	{
 		"name": "v8-node-live",
 		"title": "Node.js/V8 Live Editing",
-		"description": "This extension maintains a live connection to a Node.js/V8 debugger.",
+		"description": "Update scripts running in a V8 virtual machine as you type",
 		"url": "https://github.com/DennisKehrig/brackets-v8-node-live",
 		"repository": {
 			"type": "git",
@@ -162,7 +162,7 @@
 	{
 		"name": "open-file-from-url",
 		"title": "Open File from URL",
-		"description": "Opens href and rel URLs to files (press Alt+O on any href or rel attribute).",
+		"description": "Open href and rel URLs to files (press Alt+O on any href or rel attribute)",
 		"url": "https://github.com/deemeetar/OpenFileFromUrl",
 		"repository": {
 			"type": "git",
@@ -172,7 +172,7 @@
 	{
 		"name": "phonegapbuild",
 		"title": "PhoneGap Build",
-		"description": "The goal: get web projects from Brackets into a mobile application",
+		"description": "Get web projects from Brackets into a mobile application",
 		"url": "https://github.com/tpryan/brackets-phonegapbuild",
 		"repository": {
 			"type": "git",
@@ -182,7 +182,7 @@
 	{
 		"name": "prefixr",
 		"title": "Prefixr",
-		"description": "A small brackets extension to replace the current CSS text selection with the prefixed result returned by Prefixr",
+		"description": "Replace the current CSS text selection with the prefixed result returned by Prefixr",
 		"url": "https://github.com/davidderaedt/prefixr-extension",
 		"repository": {
 			"type": "git",
@@ -192,7 +192,7 @@
 	{
 		"name": "recent-projects",
 		"title": "Recent Projects",
-		"description": "Recent projects dropdown extension for Brackets",
+		"description": "Shows a dropdown for recent projects",
 		"url": "https://github.com/njx/brackets-recent-projects",
 		"repository": {
 			"type": "git",
@@ -202,7 +202,7 @@
 	{
 		"name": "RelatedFiles",
 		"title": "Related Files",
-		"description": "Discovers and allows you to open related files in your project",
+		"description": "Discover and open related files in your project",
 		"url": "https://github.com/jhatwich/brackets-related-files",
 		"repository": {
 			"type": "git",
@@ -213,7 +213,7 @@
 	{
 		"name": "ReloadInBrowser",
 		"title": "Reload in Browser",
-		"description": "Toolbar button and shortcut to reload the page in the browser (press Command-Shift-R)",
+		"description": "Reload the page in the browser (press Cmd/Ctrl-Shift-R)",
 		"url": "https://github.com/DennisKehrig/brackets.ReloadInBrowser/",
 		"repository": {
 			"type": "git",
@@ -243,7 +243,7 @@
 	{
 		"name": "StringConvert",
 		"title": "StringConvert",
-		"description": "String conversions like \"To Upper Case\", \"HTML Entity Encode\", \"Toggle Quotes\" and more (select text, click Edit > To Upper Case)",
+		"description": "Provides string conversions like \"To Upper Case\", \"HTML Entity Encode\", \"Toggle Quotes\" and more (select text, click Edit > To Upper Case)",
 		"url": "https://github.com/mikechambers/StringConvert",
 		"repository": {
 			"type": "git",
@@ -273,7 +273,7 @@
 	{
 		"name": "w3cvalidation",
 		"title": "W3C Validation",
-		"description": "Validates the current file when saving, using the W3C validator (click View > Enable W3CValidation)",
+		"description": "Validates the current file when saving with the W3C validator (click View > Enable W3CValidation)",
 		"url": "https://github.com/cfjedimaster/brackets-w3cvalidation",
 		"repository": {
 			"type": "git",
