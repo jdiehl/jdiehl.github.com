@@ -70,6 +70,16 @@
 		}
 	},
 	{
+		"name": "editor-navigation-shortcuts",
+		"title": "Editor Navigation Shortcuts",
+		"description": "Adds Eclipse-style keyboard navigation to switch between open files (press Cmd/Ctrl+Shift+E, also Cmd/Ctrl+[ or ]).",
+		"url": "https://github.com/peterflynn/brackets-editor-nav",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/peterflynn/brackets-editor-nav.git"
+		}
+	},
+	{
 		"name": "everyscrub",
 		"title": "Everyscrub",
 		"description": "Everything's a scrubber! Cmd/Ctrl + drag horizontally on any number or hex color to scrub its value.",
