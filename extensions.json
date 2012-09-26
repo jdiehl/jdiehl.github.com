@@ -40,6 +40,16 @@
 		}
 	},
 	{
+		"name": "commands-guide",
+		"title": "Commands Guide",
+		"description": "Similar to Quicksilver on the Mac, Sublime's Command Palette or Eclipse's Quick Access (press Cmd/Ctrl+Alt+?)",
+		"url": "https://github.com/peterflynn/brackets-commands-guide",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/peterflynn/brackets-commands-guide.git"
+		}
+	},
+	{
 		"name": "color-picker",
 		"title": "Color Picker",
 		"description": "Edit hex colors with an inline color picker",
