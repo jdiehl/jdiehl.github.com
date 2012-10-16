@@ -80,6 +80,16 @@
 		}
 	},
 	{
+		"name": "edge-web-fonts",
+		"title": "Edge Web Fonts",
+		"description": "Browse free fonts from the Edge Web Fonts collection",
+		"url": "https://github.com/adobe/brackets-edge-web-fonts/",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/adobe/brackets-edge-web-fonts.git"
+		}
+	},
+	{
 		"name": "everyscrub",
 		"title": "Everyscrub",
 		"description": "Cmd/Ctrl + drag horizontally on any number or hex color to scrub its value",
