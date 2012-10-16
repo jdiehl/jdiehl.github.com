@@ -120,6 +120,16 @@
 		}
 	},
 	{
+		"name": "HoverPreview",
+		"title": "Hover Preview",
+		"description": "Shows a preview when the cursor is hovered over certain items",
+		"url": "https://github.com/gruehle/HoverPreview",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/gruehle/HoverPreview.git"
+		}
+	},
+	{
 		"name": "jshint",
 		"title": "JSHint",
 		"description": "Provides JSHint support for your documents",
