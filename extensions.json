@@ -100,6 +100,16 @@
 		}
 	},
 	{
+		"name": "html-templates",
+		"title": "HTML Templates",
+		"description": "Insert a chosen HTML template into the current file",
+		"url": "https://github.com/talmand/Brackets-HTML-Templates",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/talmand/Brackets-HTML-Templates.git"
+		}
+	},
+	{
 		"name": "inline-color-editor",
 		"title": "Inline Color Editor",
 		"description": "An HTML/CSS/JS based inline color editor",
