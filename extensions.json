@@ -20,6 +20,16 @@
 		}
 	},
 	{
+		"name": "caniuse",
+		"title": "Can I use...",
+		"description": "Wraps the remote data for caniuse.com, a site that provides capability stats for various web features amongst the top browsers",
+		"url": "https://github.com/cfjedimaster/brackets-caniuse",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/cfjedimaster/brackets-caniuse.git"
+		}
+	},
+	{
 		"name": "code-aging",
 		"title": "Code Aging",
 		"description": "Visualizes the age of code lines by changing the background color",
