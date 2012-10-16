@@ -100,6 +100,16 @@
 		}
 	},
 	{
+		"name": "google-web-fonts",
+		"title": "Google Web Fonts",
+		"description": "Build a Google Web Fonts link string from within the editor",
+		"url": "https://github.com/talmand/Brackets-Web-Fonts",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/talmand/Brackets-Web-Fonts.git"
+		}
+	},
+	{
 		"name": "html-templates",
 		"title": "HTML Templates",
 		"description": "Insert a chosen HTML template into the current file",
