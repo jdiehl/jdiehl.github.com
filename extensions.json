@@ -110,6 +110,16 @@
 		}
 	},
 	{
+		"name": "image-size",
+		"title": "Image Size",
+		"description": "Aids in inserting the correct width and height of an image that is sourced in an img element",
+		"url": "https://github.com/talmand/Brackets-Image-Size",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/talmand/Brackets-Image-Size.git"
+		}
+	},
+	{
 		"name": "inline-color-editor",
 		"title": "Inline Color Editor",
 		"description": "An HTML/CSS/JS based inline color editor",
