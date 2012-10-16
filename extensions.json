@@ -221,6 +221,16 @@
 		}
 	},
 	{
+		"name": "select-parent",
+		"title": "Select Parent",
+		"description": "Quickly select the parent block of the current selection",
+		"url": "https://github.com/njx/select-parent",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/njx/select-parent.git"
+		}
+	},
+	{
 		"name": "ShowIndentations",
 		"title": "Show Indentations",
 		"description": "Visualizes indentations like Sublime Text does (click View > Show Indentations)",
