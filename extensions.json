@@ -42,7 +42,7 @@
 	{
 		"name": "commands-guide",
 		"title": "Commands Guide",
-		"description": "Similar to Quicksilver on the Mac, Sublime's Command Palette or Eclipse's Quick Access (press Cmd/Ctrl+Alt+?)",
+		"description": "Similar to Quicksilver on the Mac, Sublime's Command Palette or Eclipse's Quick Access (press Cmd/Ctrl-Alt-?)",
 		"url": "https://github.com/peterflynn/brackets-commands-guide",
 		"repository": {
 			"type": "git",
@@ -92,7 +92,7 @@
 	{
 		"name": "editor-navigation-shortcuts",
 		"title": "Editor Navigation Shortcuts",
-		"description": "Adds Eclipse-style keyboard navigation to switch between open files (press Cmd/Ctrl+Shift+E, also Cmd/Ctrl+[ or ])",
+		"description": "Adds Eclipse-style keyboard navigation to switch between open files (press Cmd/Ctrl-Shift-E, also Cmd/Ctrl-[ or ])",
 		"url": "https://github.com/peterflynn/brackets-editor-nav",
 		"repository": {
 			"type": "git",
@@ -117,6 +117,16 @@
 		"repository": {
 			"type": "git",
 			"url": "git://github.com/peterflynn/everyscrub.git"
+		}
+	},
+	{
+		"name": "formatter",
+		"title": "Formatter",
+		"description": "Auto-formatting for XML/HTML, CSS and JavaScript files (press Ctrl-Shift-F)",
+		"url": "https://github.com/shumpei/brackets-formatter-extension",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/shumpei/brackets-formatter-extension.git"
 		}
 	},
 	{
@@ -232,7 +242,7 @@
 	{
 		"name": "open-file-from-url",
 		"title": "Open File from URL",
-		"description": "Open href and rel URLs to files (press Alt+O on any href or rel attribute)",
+		"description": "Open href and rel URLs to files (press Alt-O on any href or rel attribute)",
 		"url": "https://github.com/deemeetar/OpenFileFromUrl",
 		"repository": {
 			"type": "git",
