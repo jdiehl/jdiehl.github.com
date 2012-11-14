@@ -311,13 +311,13 @@
 		}
 	},
 	{
-		"name": "ShowIndentations",
-		"title": "Show Indentations",
-		"description": "Visualizes indentations like Sublime Text does (click View > Show Indentations)",
-		"url": "https://github.com/DennisKehrig/brackets-show-indentations",
+		"name": "ShowWhitespace",
+		"title": "Show Whitespace",
+		"description": "Visualizes whitespace like Sublime Text does (click View > Show Whitespace)",
+		"url": "https://github.com/DennisKehrig/brackets-show-whitespace",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/DennisKehrig/brackets-show-indentations.git"
+			"url": "git://github.com/DennisKehrig/brackets-show-whitespace.git"
 		}
 	},
 	{
