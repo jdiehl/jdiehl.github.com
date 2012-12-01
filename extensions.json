@@ -351,6 +351,16 @@
 		}
 	},
 	{
+		"name": "spellcheck",
+		"title": "Spell Check",
+		"description": "Integrates the powerful online spell checker After The Deadline (select text to check and use the Edit or context menu)",
+		"url": "https://github.com/couzteau/SpellCheck",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/couzteau/SpellCheck.git"
+		}
+	},
+	{
 		"name": "StringConvert",
 		"title": "StringConvert",
 		"description": "Provides string conversions like \"To Upper Case\", \"HTML Entity Encode\", \"Toggle Quotes\" and more (select text, click Edit > To Upper Case)",
