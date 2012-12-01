@@ -20,6 +20,16 @@
 		}
 	},
 	{
+		"name": "autoindent",
+		"title": "Auto-Indent",
+		"description": "Adds an auto-indent function (press Ctrl-Shift-I)",
+		"url": "https://github.com/shumpei/brackets-autoindent-extension",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/shumpei/brackets-autoindent-extension.git"
+		}
+	},
+	{
 		"name": "caniuse",
 		"title": "Can I use...",
 		"description": "Wraps the remote data for caniuse.com, a site that provides capability stats for various web features amongst the top browsers",
