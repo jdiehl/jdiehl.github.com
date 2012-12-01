@@ -60,6 +60,16 @@
 		}
 	},
 	{
+		"name": "css-exclusions",
+		"title": "CSS Exclusion Shape Viewer",
+		"description": "Allows viewing of CSS Exclusions shapes in an inline editor",
+		"url": "https://github.com/adobe/brackets-plugin-exclusions",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/adobe/brackets-plugin-exclusions.git"
+		}
+	},
+	{
 		"name": "csslint",
 		"title": "CSSLint",
 		"description": "Provides CSSLint support for your documents",
