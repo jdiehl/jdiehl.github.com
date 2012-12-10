@@ -6,7 +6,7 @@
 		"url": "https://github.com/deemeetar/AlignAssignments",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/deemeetar/AlignAssignments.git"
+			"url": "https://github.com/deemeetar/AlignAssignments.git"
 		}
 	},
 	{
@@ -16,7 +16,7 @@
 		"url": "https://github.com/davidderaedt/appcache-gen",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/davidderaedt/appcache-gen.git"
+			"url": "https://github.com/davidderaedt/appcache-gen.git"
 		}
 	},
 	{
@@ -26,7 +26,7 @@
 		"url": "https://github.com/shumpei/brackets-autoindent-extension",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/shumpei/brackets-autoindent-extension.git"
+			"url": "https://github.com/shumpei/brackets-autoindent-extension.git"
 		}
 	},
 	{
@@ -36,7 +36,7 @@
 		"url": "https://github.com/cfjedimaster/brackets-caniuse",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/cfjedimaster/brackets-caniuse.git"
+			"url": "https://github.com/cfjedimaster/brackets-caniuse.git"
 		}
 	},
 	{
@@ -46,7 +46,7 @@
 		"url": "https://github.com/jdiehl/brackets-code-aging",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/jdiehl/brackets-code-aging.git"
+			"url": "https://github.com/jdiehl/brackets-code-aging.git"
 		}
 	},
 	{
@@ -56,7 +56,7 @@
 		"url": "https://github.com/peterflynn/brackets-commands-guide",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/peterflynn/brackets-commands-guide.git"
+			"url": "https://github.com/peterflynn/brackets-commands-guide.git"
 		}
 	},
 	{
@@ -66,7 +66,7 @@
 		"url": "https://github.com/jdiehl/brackets-color-picker",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/jdiehl/brackets-color-picker.git"
+			"url": "https://github.com/jdiehl/brackets-color-picker.git"
 		}
 	},
 	{
@@ -76,7 +76,7 @@
 		"url": "https://github.com/adobe/brackets-plugin-exclusions",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/adobe/brackets-plugin-exclusions.git"
+			"url": "https://github.com/adobe/brackets-plugin-exclusions.git"
 		}
 	},
 	{
@@ -86,7 +86,7 @@
 		"url": "https://github.com/cfjedimaster/brackets-csslint",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/cfjedimaster/brackets-csslint.git"
+			"url": "https://github.com/cfjedimaster/brackets-csslint.git"
 		}
 	},
 	{
@@ -96,7 +96,7 @@
 		"url": "https://github.com/jdiehl/brackets-debugger",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/jdiehl/brackets-debugger.git"
+			"url": "https://github.com/jdiehl/brackets-debugger.git"
 		}
 	},
 	{
@@ -116,7 +116,7 @@
 		"url": "https://github.com/peterflynn/brackets-editor-nav",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/peterflynn/brackets-editor-nav.git"
+			"url": "https://github.com/peterflynn/brackets-editor-nav.git"
 		}
 	},
 	{
@@ -126,7 +126,7 @@
 		"url": "https://github.com/adobe/brackets-edge-web-fonts/",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/adobe/brackets-edge-web-fonts.git"
+			"url": "https://github.com/adobe/brackets-edge-web-fonts.git"
 		}
 	},
 	{
@@ -136,7 +136,7 @@
 		"url": "https://github.com/peterflynn/everyscrub",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/peterflynn/everyscrub.git"
+			"url": "https://github.com/peterflynn/everyscrub.git"
 		}
 	},
 	{
@@ -146,7 +146,7 @@
 		"url": "https://github.com/shumpei/brackets-formatter-extension",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/shumpei/brackets-formatter-extension.git"
+			"url": "https://github.com/shumpei/brackets-formatter-extension.git"
 		}
 	},
 	{
@@ -156,7 +156,7 @@
 		"url": "https://github.com/jrowny/brackets-github",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/jrowny/brackets-github.git"
+			"url": "https://github.com/jrowny/brackets-github.git"
 		}
 	},
 	{
@@ -166,7 +166,7 @@
 		"url": "https://github.com/talmand/Brackets-Web-Fonts",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/talmand/Brackets-Web-Fonts.git"
+			"url": "https://github.com/talmand/Brackets-Web-Fonts.git"
 		}
 	},
 	{
@@ -176,7 +176,7 @@
 		"url": "https://github.com/talmand/Brackets-HTML-Templates",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/talmand/Brackets-HTML-Templates.git"
+			"url": "https://github.com/talmand/Brackets-HTML-Templates.git"
 		}
 	},
 	{
@@ -186,7 +186,7 @@
 		"url": "https://github.com/talmand/Brackets-Image-Size",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/talmand/Brackets-Image-Size.git"
+			"url": "https://github.com/talmand/Brackets-Image-Size.git"
 		}
 	},
 	{
@@ -196,7 +196,7 @@
 		"url": "https://github.com/GarthDB/brackets-inline-color-editor",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/GarthDB/brackets-inline-color-editor.git"
+			"url": "https://github.com/GarthDB/brackets-inline-color-editor.git"
 		}
 	},
 	{
@@ -206,7 +206,7 @@
 		"url": "https://github.com/davidderaedt/annotate-extension",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/davidderaedt/annotate-extension.git"
+			"url": "https://github.com/davidderaedt/annotate-extension.git"
 		}
 	},
 	{
@@ -216,7 +216,7 @@
 		"url": "https://github.com/gruehle/HoverPreview",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/gruehle/HoverPreview.git"
+			"url": "https://github.com/gruehle/HoverPreview.git"
 		}
 	},
 	{
@@ -226,7 +226,7 @@
 		"url": "https://github.com/cfjedimaster/brackets-jshint",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/cfjedimaster/brackets-jshint.git"
+			"url": "https://github.com/cfjedimaster/brackets-jshint.git"
 		}
 	},
 	{
@@ -236,7 +236,7 @@
 		"url": "https://github.com/iwehrman/brackets-kill-ring",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/iwehrman/brackets-kill-ring.git"
+			"url": "https://github.com/iwehrman/brackets-kill-ring.git"
 		}
 	},
 	{
@@ -246,7 +246,7 @@
 		"url": "https://github.com/jpkraemer/markdown-brackets",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/jpkraemer/markdown-brackets.git"
+			"url": "https://github.com/jpkraemer/markdown-brackets.git"
 		}
 	},
 	{
@@ -256,7 +256,7 @@
 		"url": "https://github.com/pamelafox/brackets-MDNLookup-extension",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/pamelafox/brackets-MDNLookup-extension.git"
+			"url": "https://github.com/pamelafox/brackets-MDNLookup-extension.git"
 		}
 	},
 	{
@@ -266,7 +266,7 @@
 		"url": "https://github.com/DennisKehrig/brackets-v8-node-live",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/DennisKehrig/brackets-v8-node-live.git"
+			"url": "https://github.com/DennisKehrig/brackets-v8-node-live.git"
 		}
 	},
 	{
@@ -276,7 +276,7 @@
 		"url": "https://github.com/deemeetar/OpenFileFromUrl",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/deemeetar/OpenFileFromUrl.git"
+			"url": "https://github.com/deemeetar/OpenFileFromUrl.git"
 		}
 	},
 	{
@@ -286,7 +286,7 @@
 		"url": "https://github.com/tpryan/brackets-phonegapbuild",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/tpryan/brackets-phonegapbuild.git"
+			"url": "https://github.com/tpryan/brackets-phonegapbuild.git"
 		}
 	},
 	{
@@ -296,7 +296,7 @@
 		"url": "https://github.com/davidderaedt/prefixr-extension",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/davidderaedt/prefixr-extension.git"
+			"url": "https://github.com/davidderaedt/prefixr-extension.git"
 		}
 	},
 	{
@@ -306,7 +306,7 @@
 		"url": "https://github.com/njx/brackets-recent-projects",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/njx/brackets-recent-projects.git"
+			"url": "https://github.com/njx/brackets-recent-projects.git"
 		}
 	},
 	{
@@ -316,7 +316,7 @@
 		"url": "https://github.com/jhatwich/brackets-related-files",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/jhatwich/brackets-related-files.git"
+			"url": "https://github.com/jhatwich/brackets-related-files.git"
 
 		}
 	},
@@ -327,7 +327,7 @@
 		"url": "https://github.com/DennisKehrig/brackets.ReloadInBrowser/",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/DennisKehrig/brackets.ReloadInBrowser.git"
+			"url": "https://github.com/DennisKehrig/brackets.ReloadInBrowser.git"
 		}
 	},
 	{
@@ -337,7 +337,7 @@
 		"url": "https://github.com/njx/select-parent",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/njx/select-parent.git"
+			"url": "https://github.com/njx/select-parent.git"
 		}
 	},
 	{
@@ -347,7 +347,7 @@
 		"url": "https://github.com/DennisKehrig/brackets-show-whitespace",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/DennisKehrig/brackets-show-whitespace.git"
+			"url": "https://github.com/DennisKehrig/brackets-show-whitespace.git"
 		}
 	},
 	{
@@ -357,7 +357,7 @@
 		"url": "https://github.com/jrowny/brackets-snippets",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/jrowny/brackets-snippets.git"
+			"url": "https://github.com/jrowny/brackets-snippets.git"
 		}
 	},
 	{
@@ -367,7 +367,7 @@
 		"url": "https://github.com/couzteau/SpellCheck",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/couzteau/SpellCheck.git"
+			"url": "https://github.com/couzteau/SpellCheck.git"
 		}
 	},
 	{
@@ -377,7 +377,7 @@
 		"url": "https://github.com/mikechambers/StringConvert",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/mikechambers/StringConvert.git"
+			"url": "https://github.com/mikechambers/StringConvert.git"
 		}
 	},
 	{
@@ -387,7 +387,7 @@
 		"url": "https://github.com/peterflynn/svg-preview",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/peterflynn/svg-preview.git"
+			"url": "https://github.com/peterflynn/svg-preview.git"
 		}
 	},
 	{
@@ -397,7 +397,7 @@
 		"url": "https://github.com/davidderaedt/tabtospace-extension",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/davidderaedt/tabtospace-extension.git"
+			"url": "https://github.com/davidderaedt/tabtospace-extension.git"
 		}
 	},
 	{
@@ -407,7 +407,7 @@
 		"url": "https://github.com/davidderaedt/togist",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/davidderaedt/togist.git"
+			"url": "https://github.com/davidderaedt/togist.git"
 		}
 	},
 	{
@@ -417,7 +417,7 @@
 		"url": "https://github.com/cfjedimaster/brackets-w3cvalidation",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/cfjedimaster/brackets-w3cvalidation.git"
+			"url": "https://github.com/cfjedimaster/brackets-w3cvalidation.git"
 		}
 	}
 ]
