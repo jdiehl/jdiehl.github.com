@@ -40,6 +40,16 @@
 		}
 	},
 	{
+		"name": "bookmarks",
+		"title": "Bookmarks",
+		"description": "Allows the user to navigate within a document using bookmarks",
+		"url": "https://github.com/toshsharma/brackets-bookmarks",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/toshsharma/brackets-bookmarks.git"
+		}
+	},
+	{
 		"name": "caniuse",
 		"title": "Can I use...",
 		"description": "Wraps the remote data for caniuse.com, a site that provides capability stats for various web features amongst the top browsers",
