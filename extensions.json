@@ -1,4 +1,4 @@
-[
+	[
 	{
 		"name": "align-assignments",
 		"title": "Align Assignments",
@@ -297,6 +297,16 @@
 		"repository": {
 			"type": "git",
 			"url": "https://github.com/davidderaedt/prefixr-extension.git"
+		}
+	},
+	{
+		"name": "quick-markup",
+		"title": "Quick Markup",
+		"description": "Creates a quick markup mode (press Cmd/Ctrl-M)",
+		"url": "https://github.com/redmunds/brackets-quick-markup",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/redmunds/brackets-quick-markup.git"
 		}
 	},
 	{
