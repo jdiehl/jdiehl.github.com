@@ -240,6 +240,16 @@
 		}
 	},
 	{
+		"name": "less",
+		"title": "LESS",
+		"description": "An \"on save\" LESS compiler extension",
+		"url": "https://github.com/olsgreen/BracketLESS",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/olsgreen/BracketLESS.git"
+		}
+	},
+	{
 		"name": "markdown",
 		"title": "Markdown",
 		"description": "Display comment blocks with rendered markdown",
@@ -306,7 +316,7 @@
 		"url": "https://github.com/redmunds/brackets-quick-markup",
 		"repository": {
 			"type": "git",
-			"url": "git://github.com/redmunds/brackets-quick-markup.git"
+			"url": "https://github.com/redmunds/brackets-quick-markup.git"
 		}
 	},
 	{
