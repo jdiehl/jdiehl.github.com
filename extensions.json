@@ -300,6 +300,16 @@
 		}
 	},
 	{
+		"name": "open-containing-folder",
+		"title": "Open containing folder",
+		"description": "Open the folder the contains the specified file",
+		"url": "https://github.com/ujjaval/Open-containing-folder",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/ujjaval/Open-containing-folder.git"
+		}
+	},
+	{
 		"name": "open-file-from-url",
 		"title": "Open File from URL",
 		"description": "Open href and rel URLs to files (press Alt-O on any href or rel attribute)",
