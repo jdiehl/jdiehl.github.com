@@ -330,6 +330,16 @@
 		}
 	},
 	{
+		"name": "pagesuck",
+		"title": "PageSuck",
+		"description": "Allows you to pull the contents of any URL directly into your editor",
+		"url": "https://github.com/timburgess/brackets-pagesuck",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/timburgess/brackets-pagesuck.git"
+		}
+	},
+	{
 		"name": "phonegapbuild",
 		"title": "PhoneGap Build",
 		"description": "Get web projects from Brackets into a mobile application",
