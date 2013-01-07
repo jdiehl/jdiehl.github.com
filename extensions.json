@@ -270,6 +270,16 @@
 		}
 	},
 	{
+		"name": "markdown-preview",
+		"title": "Markdown Preview",
+		"description": "Provides a live preview of markdown documents",
+		"url": "https://github.com/gruehle/MarkdownPreview",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/gruehle/MarkdownPreview.git"
+		}
+	},
+	{
 		"name": "MDNLookup-extension",
 		"title": "MDN Lookup",
 		"description": "Look up HTML tags on MDN",
