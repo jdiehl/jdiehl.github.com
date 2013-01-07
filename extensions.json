@@ -30,6 +30,16 @@
 		}
 	},
 	{
+		"name": "beautify",
+		"title": "Beautify",
+		"description": "Format HTML, CSS, and JavaScript files (press Ctrl-Shift-F)",
+		"url": "https://github.com/drewhjava/brackets-beautify",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/drewhjava/brackets-beautify.git"
+		}
+	},
+	{
 		"name": "caniuse",
 		"title": "Can I use...",
 		"description": "Wraps the remote data for caniuse.com, a site that provides capability stats for various web features amongst the top browsers",
