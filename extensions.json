@@ -471,6 +471,16 @@
 		}
 	},
 	{
+		"name": "testquickly",
+		"title": "Test Quickly",
+		"description": "Adds a \"Quick Tests\" menu item for running tests that are referred to by the current file (press Cmd/Ctrl-P)",
+		"url": "https://github.com/dangoor/TestQuickly",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/dangoor/TestQuickly.git"
+		}
+	},
+	{
 		"name": "togist",
 		"title": "ToGist",
 		"description": "Creates a Github Gist from the current text selection (select text, click Edit > Create Gist)",
