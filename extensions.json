@@ -230,6 +230,16 @@
 		}
 	},
 	{
+		"name": "js-code-hints",
+		"title": "JavaScript Code Hints",
+		"description": "Provides code hints (aka autocompletion) for the JavaScript programming language",
+		"url": "https://github.com/iwehrman/brackets-js-code-hints",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/iwehrman/brackets-js-code-hints.git"
+		}
+	},
+	{
 		"name": "annotate",
 		"title": "JSDoc Annotate",
 		"description": "Generate JSDoc annotations for your functions",
@@ -451,6 +461,16 @@
 		}
 	},
 	{
+		"name": "StripTrailingSpaces",
+		"title": "Strip Trailing Spaces",
+		"description": "Strip traling whitespace at the end of the line on document save",
+		"url": "https://github.com/pockata/brackets-StripTrailingSpaces",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/pockata/brackets-StripTrailingSpaces.git"
+		}
+	},
+	{
 		"name": "svg-preview",
 		"title": "SVG Preview",
 		"description": "Adds an inline live preview panel when viewing SVG files",
@@ -498,6 +518,16 @@
 		"repository": {
 			"type": "git",
 			"url": "https://github.com/cfjedimaster/brackets-w3cvalidation.git"
+		}
+	},
+	{
+		"name": "whitespace-normalizer",
+		"title": "Whitespace Normalizer",
+		"description": "Trims trailing whitespace, transforms tabs to spaces and adds newlines at the end of file on save",
+		"url": "https://github.com/dsbonev/whitespace-normalizer",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/dsbonev/whitespace-normalizer.git"
 		}
 	}
 ]
