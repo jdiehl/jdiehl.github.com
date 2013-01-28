@@ -30,9 +30,19 @@
 		}
 	},
 	{
+		"name": "automatch-pairs",
+		"title": "Automatch Pairs",
+		"description": "Enables automatic pairs matching.",
+		"url": "https://github.com/zr0z/brackets-automatch-pairs",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/zr0z/brackets-automatch-pairs.git"
+		}
+	},
+	{
 		"name": "beautify",
 		"title": "Beautify",
-		"description": "Format HTML, CSS, and JavaScript files (press Ctrl-Shift-F)",
+		"description": "Format HTML, CSS and JavaScript files (press Cmd/Ctrl-Alt-L)",
 		"url": "https://github.com/drewhjava/brackets-beautify",
 		"repository": {
 			"type": "git",
