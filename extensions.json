@@ -80,6 +80,16 @@
 		}
 	},
 	{
+		"name": "color-picker",
+		"title": "Color Picker",
+		"description": "Edit hex colors with an inline color picker",
+		"url": "https://github.com/jdiehl/brackets-color-picker",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/jdiehl/brackets-color-picker.git"
+		}
+	},
+	{
 		"name": "commands-guide",
 		"title": "Commands Guide",
 		"description": "Similar to Quicksilver on the Mac, Sublime's Command Palette or Eclipse's Quick Access (press Cmd/Ctrl-Alt-?)",
@@ -90,13 +100,13 @@
 		}
 	},
 	{
-		"name": "color-picker",
-		"title": "Color Picker",
-		"description": "Edit hex colors with an inline color picker",
-		"url": "https://github.com/jdiehl/brackets-color-picker",
+		"name": "continuous-compilation",
+		"title": "Continuous Compilation",
+		"description": "Improves on the built-in JSLint by running whenever a file is changed, highlighting errors in the code, etc.",
+		"url": "https://github.com/JoachimK/brackets-continuous-compilation",
 		"repository": {
 			"type": "git",
-			"url": "https://github.com/jdiehl/brackets-color-picker.git"
+			"url": "https://github.com/JoachimK/brackets-continuous-compilation.git"
 		}
 	},
 	{
