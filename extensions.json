@@ -100,16 +100,6 @@
 		}
 	},
 	{
-		"name": "continuous-compilation",
-		"title": "Continuous Compilation",
-		"description": "Improves on the built-in JSLint by running whenever a file is changed, highlighting errors in the code, etc.",
-		"url": "https://github.com/JoachimK/brackets-continuous-compilation",
-		"repository": {
-			"type": "git",
-			"url": "https://github.com/JoachimK/brackets-continuous-compilation.git"
-		}
-	},
-	{
 		"name": "css-exclusions",
 		"title": "CSS Exclusion Shape Viewer",
 		"description": "Allows viewing of CSS Exclusions shapes in an inline editor",
